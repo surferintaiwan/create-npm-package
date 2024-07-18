@@ -1,5 +1,5 @@
 {
-  "name": "surferintaiwan--hello-functions",
+  "name": "surferintaiwan-hello-functions",
   "version": "0.0.1",
   "description": "Just a test package",
   "main": "./dist/index.js",
